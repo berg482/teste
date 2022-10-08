@@ -1,10 +1,14 @@
 *{
     background-color: bisque;
     
-
-
+}
+#hes{
+    color: blue;
 }
 h1{
-    color: rgb(7, 7, 7);
+    color: rgb(224, 220, 245);
 
+}
+.contain h1{
+    color: brown;
 }
